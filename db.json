@@ -1,0 +1,28 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Bobur Sila",
+        "last-name": "Dilmurodov",
+        "img": "https://avatars.mds.yandex.net/i?id=735a71202d373340e0b59f613bd3150a82b32aee-8176266-images-thumbs&n=13"
+      },
+      {
+        "id": 2,
+        "name": "Sarvar",
+        "last-name": "Bilmiman",
+        "img": "https://avatars.mds.yandex.net/i?id=3387e8799fb7e75f8c741183e3b3fd93d51a565e-7904189-images-thumbs&n=13"
+      },
+      {
+        "id": 3,
+        "name": "Asad",
+        "last-name": "Bilmiman",
+        "img": "https://avatars.mds.yandex.net/i?id=210e46a1e3e1657502dd98786a094c74-5207234-images-thumbs&n=13"
+      },
+      {
+        "id": 4,
+        "name": "Firdavs",
+        "last-name": "Erqulov",
+        "img": "https://photos.smugmug.com/Mountain-Views/i-4tjpxPc/0/8eefccf8/L/rainier%20at%20sunset%20site-L.jpg"
+      }
+    ]
+  }
